@@ -4,4 +4,16 @@
   ## Designation
    ## Qualification
    
+   |Name |  Qualification |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+   
+   
+   
+   
+   
+   
+   
+   
 ![alt text](ss.jpg)
