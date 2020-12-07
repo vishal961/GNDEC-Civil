@@ -2,8 +2,8 @@
 
 ## Civil Engineering Department
 
-###  Name -:  Vishal Kashyap
-#### Designation :-  Clerk
+### Name - Vishal Kashyap
+#### Designation - Clerk
 #### Department :-  Civil
 ## Hobbies 
    
