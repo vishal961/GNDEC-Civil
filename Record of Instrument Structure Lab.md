@@ -1,4 +1,4 @@
-| S.No. | Intruments Name | Specification of any | Schedule Maintenance date | Work done during Maintenance | Subject of Lab incharge |
+| S.No. | Intruments Name | Specification of any | Schedule Maintenance date | Work done during Maintenance | 
 |-------|-----------------|----------------------|---------------------------|----------------------------- |
 | 1.    |Colomns and strunts app.|Mat-Wooden No. of Strents-Y spriy Material - steel orientation-vertical.|
 | 2.    | Unsymmetric Bending apparatus | M- stainless-steel surface finished galvanised |
