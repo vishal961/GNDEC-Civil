@@ -11,11 +11,11 @@ Subject :-  AMC of Ultra Pure Water Purifier
 
  We are pleased to place our order for AMC of following items as per terms and condition mentioned below:
 
-|S.No.|Items|Total (INR)|
-|-----|-----|-----------|
-|1.| Annual maintenance contract for Ultra Pure Water Purifier|| 30250|
-|--|GST 18%|5445|
-|--|Grand Total| 35,695|
+| S.No. | Items                                                     | Total (INR) |
+|:------|:----------------------------------------------------------|:------------|
+| 1.    | Annual maintenance contract for Ultra Pure Water Purifier | 30250       |
+| --    | GST 18%                                                   | 5445        |
+| --    | Grand Total                                               | 35,695      |
 
 Terms & Conditions :
 
